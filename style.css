@@ -1,0 +1,22 @@
+body{
+	background-color: green
+}
+.container{
+	width: 400px;
+	height:300px;
+	margin-left: 34%;
+	margin-right: 40%;
+	box-shadow: 40px 40px 40px;
+	background-color:pink;
+	padding: 20px;
+	display: none;
+}
+
+
+
+.overLay{
+	position:absolute; 
+	height: 100%;
+	width: 100%;
+	background-color: yellow;
+}
