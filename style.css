@@ -7,10 +7,12 @@ body{
 	height:300px;
 	margin-left: 34%;
 	margin-right: 40%;
-	box-shadow: 40px 40px 40px;
-	background-color:pink;
+	box-shadow: 5px 5px 20px gray;
+	background-color:#9F79EE;
 	padding: 20px;
 	display: none;
+	border-radius: 10%;
+	padding:30px;
 }
 
 
