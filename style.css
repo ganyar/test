@@ -1,5 +1,6 @@
 body{
-	background-color: green
+	background-color: #8B2252;
+	color: #C1CDC1;
 }
 .container{
 	width: 400px;
@@ -18,5 +19,5 @@ body{
 	position:absolute; 
 	height: 100%;
 	width: 100%;
-	background-color: yellow;
+	background-color: #D8BFD8;
 }
