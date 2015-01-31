@@ -2,10 +2,10 @@ body{
 	background-color: green
 }
 .container{
-	width: 400px;
+	width: 200px;
 	height:300px;
 	margin-left: 34%;
-	margin-right: 40%;
+	margin-right: 30%;
 	box-shadow: 40px 40px 40px;
 	background-color:pink;
 	padding: 20px;
